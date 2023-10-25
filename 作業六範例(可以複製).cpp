@@ -9,6 +9,7 @@ int main()
     int ;       //變數設為answer
     
     //輸入
+    cout<<"請輸入x和y";
     cin;        //輸入到變數x,y
     
     //運算
