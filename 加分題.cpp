@@ -15,19 +15,19 @@ int main()
     float ;       //設定為average
     
     //輸入
-    cout<<"輸入國文分數："
+    cout<<"輸入國文分數：";
     cin>>chinese;        
-    cout<<"輸入英文分數："
+    cout<<"輸入英文分數：";
     
-    cout<<"輸入數學分數："
+    cout<<"輸入數學分數：";
     
-    cout<<"輸入自然分數："
+    cout<<"輸入自然分數：";
     
-    cout<<"輸入歷史分數："
+    cout<<"輸入歷史分數：";
     
-    cout<<"輸入地理分數："
+    cout<<"輸入地理分數：";
     
-    cout<<"輸入公民分數："
+    cout<<"輸入公民分數：";
     
     //加權
     chinese = ;     //chinese*5
