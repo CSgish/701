@@ -1,6 +1,7 @@
 # 編輯器網站
 https://www.online-cpp.com/
-
+# 複習一簡報
+https://drive.google.com/file/d/1RcOtpAw37T4wokUpjiezfGRzJCZGEPh3/view?usp=sharing
 # kahoot
 https://kahoot.it/
 
