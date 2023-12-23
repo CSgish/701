@@ -2,6 +2,9 @@
 https://www.online-cpp.com/
 # 複習一簡報
 https://drive.google.com/file/d/1RcOtpAw37T4wokUpjiezfGRzJCZGEPh3/view?usp=sharing
+
+# 複習二簡報
+https://drive.google.com/file/d/1wErJLIJs7bSW2cS-CyNM0dapSGxvCg3m/view?usp=sharing
 # kahoot
 https://kahoot.it/
 
