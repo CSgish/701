@@ -4,5 +4,4 @@ https://www.online-cpp.com/
 https://forms.gle/KwktsKVizYXDYuQDA
 
 # 英文單字網站
-https://etlady.tw/TYC/
-
+https://tyc.etlady.tw/
